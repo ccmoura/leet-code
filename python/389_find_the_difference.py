@@ -14,6 +14,3 @@ class Solution(object):
                 return i
             else:
                 s_letters_occurrences[i] -= 1
-
-print(Solution().findTheDifference("", "y"))
-        
